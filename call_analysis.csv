@@ -1,0 +1,13 @@
+
+
+Client Name,Duration (Minutes),Sentiment,Conversation Text
+John Doe,15,Neutral,"Client: Hi, my internet is down since morning. Can you help?; Assistant: Of course, John. Have you tried restarting your router?; Client: Yes, I did. No luck.; Assistant: Let\'s check the service status in your area."
+Jane Smith,30,Neutral,"Client: I\'m unable to access my account with the new password. ;Assistant: I\'m sorry to hear that, Jane. Did you use the password reset link?; Client: Yes, but it still doesn\'t work.; Assistant: Let\'s reset it together now."
+Alex Johnson,5,Happy,"Client: Can I change my appointment time?; Assistant: Sure, Alex. What time would you prefer?; Client: Is tomorrow at 3 PM available?; Assistant: Let me check... Yes, it\'s available. I\'ve changed it for you."
+Maria Garcia,20,Sad,"Client: I received a defective product. What should I do?; Assistant: I\'m really sorry about that, Maria. Could you describe the defect?; Client: It\'s a coffee maker that won\'t turn on.; Assistant: We\'ll send a replacement immediately."
+Ethan Brown,45,Neutral,"Client: My package was delivered to the wrong address.; Assistant: That\'s troubling, Ethan. Can you confirm your correct address?; Client: Sure, it\'s 123 Maple Street.; Assistant: We\'ll resend your package to the correct address right away."
+Olivia Wilson,10,Happy,"Client: How do I track my order?; Assistant: Hi Olivia, you can track it using the link in your confirmation email.; Client: Oh, I missed that. Thanks!; Assistant: No problem, let me know if you have any other questions."
+Noah Miller,25,Neutral,"Client: I need help installing my software.; Assistant: I can help with that, Noah. Do you have the installation code?; Client: Yes, I have it right here.; Assistant: Great, let\'s start with step one."
+Liam Davis,35,Neutral,"Client: There\'s a charge I don\'t recognize on my bill.; Assistant: Let\'s sort that out, Liam. Can you tell me the date and amount?; Client: It was on the 15th, for $200.; Assistant: I see the issue. I\'ll have that charge removed."
+Emma Martinez,12,Sad,"Client: The item I received is different from what I ordered.; Assistant: I apologize for that, Emma. Can you describe what you received?; Client: It\'s a red sweater, but I ordered a blue one.; Assistant: We\'ll send the correct item immediately."
+Ava Anderson,50,Sad,"Client: I\'m really unhappy with your service.; Assistant: I\'m sorry to hear that, Ava. Can you explain what happened?; Client: My appointment was cancelled last minute.; Assistant: I understand how frustrating that can be. Let\'s reschedule you for the earliest available slot and offer a discount for the inconvenience."
